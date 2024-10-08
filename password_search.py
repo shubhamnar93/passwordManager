@@ -13,4 +13,4 @@ class PasswordSearcher:
             messagebox.showwarning(title="Error", message="No data file found")
         except KeyError:
             messagebox.showwarning(title="Error", message="No data found")
-        return False
+
