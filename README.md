@@ -7,3 +7,9 @@ This code help you to create, store, and manage your passwords loclly in your co
 3. `password_search.py`: it recive website and if website exist in json file it returns email and password of the website otherwise it return false
 
 4. `main.py`: it setup entire GUI, it calls `generate_password` method from `PasswordGenerator` class and insert the password when `Generate Password` button is clicked, it calls `save_password` method from `PasswordManager` class and shows the error window if any of the feilds are empthy when `add` button is clicked, it calls `search_password` method from `PasswordSearcher` class and show message box when method do not return false when `search` button is clicked
+
+
+
+
+https://github.com/user-attachments/assets/7f26d97a-f68b-48b0-8e8f-9590b98a6aab
+
