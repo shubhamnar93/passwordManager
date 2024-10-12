@@ -1,4 +1,4 @@
-This code help you to create, store, and manage your passwords loclly in your computer
+This code help you to create, store, and manage your passwords locally in your computer
 
 1. `password_generator.py`: it return passwodr of random size having random number of random letter, symbol and number and copy it to clipboard
 
